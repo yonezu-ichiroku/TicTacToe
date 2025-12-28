@@ -1,7 +1,0 @@
-﻿Gamma,15,2
-Alpha,12,4
-Epsilon,11,5
-Delta,9,7
-Beta,8,6
-O,5,0
-X,0,5
