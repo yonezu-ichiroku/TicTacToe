@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\Tic_Tac_Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\Tic_Tac_Toe.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\Tic_Tac_Toe.AssemblyInfo.cs
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net9.0\Tic_Tac_Toe.exe
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net9.0\Tic_Tac_Toe.deps.json
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net9.0\Tic_Tac_Toe.runtimeconfig.json
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net9.0\Tic_Tac_Toe.dll
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net9.0\Tic_Tac_Toe.pdb
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\Tic_Tac_Toe.dll
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\refint\Tic_Tac_Toe.dll
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\Tic_Tac_Toe.pdb
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\Tic_Tac_Toe.genruntimeconfig.cache
+C:\Users\hp\Desktop\c#\Newfolder()\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net9.0\ref\Tic_Tac_Toe.dll
